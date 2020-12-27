@@ -18,3 +18,5 @@ El proyecto se crea con:
 * cambie la infomarcion del archivo application.properties por las credenciales de su mysql
 
 ## Diagrama Relacional
+
+https://github.com/jqvalenzuela10/spring-boot-bcp-back/issues/1#issue-774954496
